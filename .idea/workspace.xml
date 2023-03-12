@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dba1f8e-b529-4708-a26c-1c1e90b2bef7" name="변경" comment="add chapter05 sec07 ~ sec09">
+    <list default="true" id="8dba1f8e-b529-4708-a26c-1c1e90b2bef7" name="변경" comment="add chapter05 sec10 ~ sec12">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter06/sec08/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/sec08/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter06/sec08/CarExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/sec08/CarExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +64,9 @@
       <workItem from="1677988055817" duration="2489000" />
       <workItem from="1678237629387" duration="6015000" />
       <workItem from="1678255914335" duration="2557000" />
-      <workItem from="1678422881719" duration="1097000" />
+      <workItem from="1678422881719" duration="1215000" />
+      <workItem from="1678523573380" duration="782000" />
+      <workItem from="1678595158594" duration="1972000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1677000299342</created>
@@ -113,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678258565194</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add chapter05 sec10 ~ sec12">
+      <created>1678424078302</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678424078302</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,7 +147,8 @@
     <MESSAGE value="add chapter04" />
     <MESSAGE value="add chapter05 sec01 ~ sec06" />
     <MESSAGE value="add chapter05 sec07 ~ sec09" />
-    <option name="LAST_COMMIT_MESSAGE" value="add chapter05 sec07 ~ sec09" />
+    <MESSAGE value="add chapter05 sec10 ~ sec12" />
+    <option name="LAST_COMMIT_MESSAGE" value="add chapter05 sec10 ~ sec12" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
