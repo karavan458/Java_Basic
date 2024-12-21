@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class Main {
     static void buyLotto(Scanner scan) {
         int price = 1000;
-        int money = 0;
+        int money = 0; //내가 낸 돈
         int count = 0;
         int change = 0;
 
@@ -54,7 +54,7 @@ public class Main {
         int[] ranNum = new int[45];
         int[] lottoNum = new int[6];
 
-        for (int i = 0; i < ranNum.length; i++) ranNum[i] = 1 + i;
+        for (int i = 0; i < ranNum.length; i++) ranNum[i] = i + 1;
         for (int i = 0; i < lottoNum.length; i++) {
             int k = ran.nextInt(45 - i);
             lottoNum[i] = ranNum[k];
