@@ -38,8 +38,8 @@ class Main {
             ball = 0;
             strike = 0;
             int[] myNum = generateMyNum(sc, 3);
-            for (int i = 0; i < 3; i++) {
-                for (int j = 0; j < 3; j++) {
+            for (int i = 0; i < myNum.length; i++) {
+                for (int j = 0; j < comNum.length; j++) {
                     if (myNum[i] == comNum[j]) {
                         if (i == j) strike++;
                         else ball++;
